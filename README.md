@@ -1,7 +1,9 @@
 # About Me:
  B.Tech CSE Student | Full-Stack Developer | AI Enthusiast<br><br>React • Next.js • Node.js • Java • Python<br>Learning DSA, System Design & AI<br>Building Projects & Exploring Open Source<br>Goal: Become a Product-Focused Software Engineer
 
- ![Header](./github-header-banner(1).png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/namantiwari26/namantiwari26/main/banner.png" width="100%">
+</p>
 
 
 ## 🐍 Contribution Snake
