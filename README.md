@@ -1,11 +1,7 @@
 # About Me:
  B.Tech CSE Student | Full-Stack Developer | AI Enthusiast<br><br>React • Next.js • Node.js • Java • Python<br>Learning DSA, System Design & AI<br>Building Projects & Exploring Open Source<br>Goal: Become a Product-Focused Software Engineer
 
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C9FF,100:92FE9D&text=Naman%20Tiwari&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Naman+Tiwari;Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Learner;Building+Products+That+Matter" />
-</p>
+ ![Header](./github-header-banner(1).png)
 
 
 ## 🐍 Contribution Snake
