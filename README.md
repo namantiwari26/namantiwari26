@@ -29,6 +29,6 @@
 [![](https://komarev.com/ghpvc/?username=namantiwari26&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=namantiwari26&icon=5&color=6"/>
+  <img src="https://komarev.com/ghpvc/?username=namantiwari26&label=VISITORS&color=blueviolet&style=flat-square" />
 </p>
 
