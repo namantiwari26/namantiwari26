@@ -6,8 +6,6 @@
 </p>
 
 
-## 🐍 Contribution Snake
-
 ![Snake animation](https://github.com/namantiwari26/namantiwari26/blob/output/github-contribution-grid-snake.svg)
 
 ## 🌐 Socials:
@@ -26,8 +24,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=namantiwari26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=namantiwari26&icon=1&color=0)](https://visitcount.itsvg.in)
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=namantiwari26&label=VISITORS&color=blueviolet&style=flat-square" />
 </p>
